@@ -1,0 +1,43 @@
+body {
+	background-image: url("../images/pokemon_master_ball.png");
+	background-color: black;
+}
+
+label {
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Sigmar One', 'cursive';
+	color: #eed535;
+}
+
+h3, h4 {
+	font-family: 'Sigmar One', 'cursive';
+	/*font-family: 'Permanent Marker', 'cursive';*/
+	font-weight: bolder;
+	color: #eed535;
+}
+
+p {
+	margin-top: 10px;
+}
+
+.button-row {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.newGif {
+	display: inline-block;
+	margin: 20px 20px 20px 0px;
+}
+
+.fButton {
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+#Pokemon-input {
+	margin: 0px 5px;
+}
